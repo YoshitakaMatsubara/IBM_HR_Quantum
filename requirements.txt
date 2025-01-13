@@ -1,1 +1,1 @@
-pandas-profiling
+ydata-profiling

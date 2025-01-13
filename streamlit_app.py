@@ -45,5 +45,5 @@ df_jp.columns = [
 ]
 
 st.write(df_jp)
-pr = df_jp.profile_report()
+pr = df.profile_report()
 st_profile_report(pr)

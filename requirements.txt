@@ -1,1 +1,1 @@
-ydata_profiling
+ydata-profiling
